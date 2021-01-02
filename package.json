@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "^0.0.7",
+    "ytdl-core": "^4.3.1"
+  },
+  "name": "discordmusicbot",
+  "description": "A small bot to stream music in discord voice channel",
+  "version": "1.0.0",
+  "main": "musicBot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node musicBot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyvon/DiscordMusicBot.git"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot",
+    "stream"
+  ],
+  "author": "Nicolas YVON (nyvon)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyvon/DiscordMusicBot/issues"
+  },
+  "homepage": "https://github.com/nyvon/DiscordMusicBot#readme"
+}
